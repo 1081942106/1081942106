@@ -1,4 +1,14 @@
-## Hi there 👋
+#Junlin He
+
+**University:** Northeastern University
+
+**Major:** Computer Science and Game Development
+
+**Expected Graduation:** 2030
+
+## About Me
+
+I am a first-year student at Northeastern University interested in computer science and game development.
 
 <!--
 **1081942106/1081942106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
